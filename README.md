@@ -1,2 +1,2 @@
 # LandmineGameJsConsole
- Simple console landmine game written in JavaScript using Node, along with Jasmine for testing.
+To run tests open the command prompt as administrator, then cd into the folder 'FDBCodingChallengeJsMk1.0'. Finally, input this command 'npx jasmine'.
