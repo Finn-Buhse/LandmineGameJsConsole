@@ -1,0 +1,21 @@
+{
+  "name": "fdbcodingchallengejsmk1.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.55.0"
+  },
+  "dependencies": {
+    "@babel/eslint-parser": "^7.23.3",
+    "jasmine": "^5.1.0",
+    "jasmine-core": "^5.1.1",
+    "prompt-sync": "^4.2.0"
+  }
+}

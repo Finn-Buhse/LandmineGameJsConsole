@@ -1,0 +1,18 @@
+{
+  "spec_dir": "spec",
+  "spec_files": [
+    "BoardSpec.js",
+    "PlayerSpec.js",
+    "RandomGeneratorSpec.js",
+    "LandmineGameSpec.js",
+    "**/*[sS]pec.?(m)js"
+  ],
+  "helpers": [
+    "app.js",
+    "helpers/**/*.?(m)js"
+  ],
+  "env": {
+    "stopSpecOnExpectationFailure": false,
+    "random": true
+  }
+}
